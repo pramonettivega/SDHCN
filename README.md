@@ -26,9 +26,11 @@ To support classification tasks such as predicting plant functional types (PFT),
 
 ## 🌲 TLS Data Description (Test Data)
 
-The TLS (Terrestrial Laser Scanning) dataset is used as the test set for evaluating model predictions. It contains tree-level structural measurements extracted from high-resolution LiDAR scans, and serves as the target for predicting labels such as Plant Functional Type (PFT), genus, and species. 
+The TLS (Terrestrial Laser Scanning) dataset is used as the test set for evaluating model predictions. It contains tree-level structural measurements extracted from high-resolution LiDAR scans, and serves as the target for predicting labels such as Plant Functional Type (PFT), genus, and species. The test dataset is prepared through combining those two datasets.</p>
+
  Data file:  
    - `TLS_treelist.csv`
+   - `blk_plot_identification.csv`
 
 
 ## 🚀 Running the Project
