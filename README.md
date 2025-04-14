@@ -52,7 +52,7 @@ To run the modeling pipeline and reproduce results:
 
 2. In your browser, open the notebook file:
     ```
-    .ipynb
+    sprint4-SDHCN.ipynb
     ```
 
 3. Run all cells sequentially to process data, train models, and generate results.
